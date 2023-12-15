@@ -29,3 +29,44 @@ BeatBliss is a music player Flutter app that provides a seamless and enjoyable m
 
    ```bash
    git clone https://github.com/yourusername/BeatBliss.git
+2. Install required Packages
+
+## ScreenShots
+
+1. **Splash Screen**
+
+   ![BeatBliss_SplashScreen](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/b302421a-c124-4786-8ab9-18a6091cc334)
+
+2. **Signup Screen**
+
+   ![BeatBliss_SignUp](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/948a3e02-72e0-47bc-be05-97fbf8ed258e)
+
+3. **Login Screen**
+
+   ![BeatBliss_Login](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/caab916e-7cdd-47d8-b8af-2c5498a75073)
+
+4. **Favorites Screen**
+
+     ![BeatBliss_Favorites](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/998df582-bbfe-446d-bc2b-a58b9751c795)
+
+5. **My Library**
+
+   ![BeatBliss_MyLibrary](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/be48a09f-0f56-49e5-9828-4d9ee7f188dd)
+
+6. **Song Detail**
+
+   ![BeatBliss_SongDetail](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/35367950-f193-45f7-9076-e41f826a803c)
+
+7. **Profile**
+
+   ![BeatBliss_Profile](https://github.com/HarshDubey1011/BeatBliss/assets/64142529/2ec1a389-9d31-485e-9d64-c657d96f9bd1)
+
+
+## Possible Updates on Future
+
+1. UI Improvement
+2. Adding Api to fetch songs
+3. Adding animations to make app more visually attractive
+4. Using firebase to store data online
+
+
