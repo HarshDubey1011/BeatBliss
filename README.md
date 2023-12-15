@@ -1,23 +1,31 @@
-<<<<<<< HEAD
-# BeatBliss
-=======
-# BeatBliss
+# BeatBliss Music Player
 
-A new Flutter project created with FlutLab - https://flutlab.io
+BeatBliss is a music player Flutter app that provides a seamless and enjoyable music listening experience. It leverages various packages to handle audio playback, data storage, and network requests.
 
-## Getting Started
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Intuitive and user-friendly interface
+- Seamless audio playback with Audioplayers package
+- Persistent storage of user preferences using Shared Preferences
+- Integration with external APIs for fetching music data using HTTP package
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+## Packages Used
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [get: ^4.6.6](https://pub.dev/packages/get)
+  - A state management package for Flutter applications that simplifies navigation, dependency injection, and route management.
 
-## Getting Started: FlutLab - Flutter Online IDE
+- [shared_preferences: ^2.0.18](https://pub.dev/packages/shared_preferences)
+  - A Flutter plugin for reading and writing simple key-value pairs. Useful for persisting user preferences in the app.
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
->>>>>>> 359b594 (Adding BeatBliss)
+- [audioplayers: ^3.0.1](https://pub.dev/packages/audioplayers)
+  - A Flutter plugin for playing audio files. It provides a simple interface for handling audio playback, including features like play, pause, and stop.
+
+- [http: ^0.13.5](https://pub.dev/packages/http)
+  - A package for making HTTP requests in Flutter. It is used here to fetch music data from external APIs.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/BeatBliss.git
